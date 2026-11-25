@@ -16,4 +16,4 @@ Welcome to my professional portfolio. Here I showcase practical projects in Soft
 
 ## Core Skills
 * **Manual QA:** Requirements analysis, test case design (black-box testing techniques), and bug reporting.
-* **Databases:** SQL queries (`SELECT`, `JOIN`, `GROUP BY`, `HAVING`) for data integrity validation.
+* **Databases:** SQL queries (`SELECT`, `JOIN`, `GROUP BY`, `WHERE`) for data integrity validation.
